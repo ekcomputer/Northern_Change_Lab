@@ -12,10 +12,16 @@
 
 * [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) - "This book grew out of a course developed at Columbia University called Research Computing in Earth Science. It was written mostly by Ryan Abernathey, with significant contributions from Kerry Key and Tim Crone. By separating the book from the class, we hope to create an open-source community resource for Python education in the Earth and Environmental Sciences."
 
-*University of Helsinki courses
+* University of Helsinki courses
  * [Automating GIS-processes 2021](https://autogis-site.readthedocs.io/en/latest/index.html) - University of Helsinki, python
  * [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC/index.html) -  CSC Finland – IT Center for Science 3-day course
  * [Welcome to Geo-Python 2021!](https://geo-python-site.readthedocs.io/en/latest/index.html)
+
+* ICESat-2 [Hackweeks](https://github.com/ICESAT-2HackWeek) - focused on geospatial data science, of course with a focus on ICESat-2 data manipulation and the [icepyx](https://github.com/icesat2py/icepyx) package.
+
+* [Geospatial Data Analysis with Python](https://github.com/UW-GDA/gda_course_2020) - course by [David Shean](https://dshean.github.io/) at UW, one of the creaters of ICESat-2 Hackweek.
+
+* [Pangeo tutorial](https://github.com/pangeo-data/pangeo-tutorial) - Intro to the main Pangeo packages: jupyter, geopandas, xarray, dask, and intake
 
 ## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
