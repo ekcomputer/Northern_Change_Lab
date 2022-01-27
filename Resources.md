@@ -36,6 +36,7 @@
 
 ## Learning programming
 1. [How to Think Like a Computer Scientist: Learning with Python 3](https://howtothink.readthedocs.io/en/latest/index.html): An online, html textbook for an introduction to programming (in Python 3). Referenced in MIT 6.00.
+2. [DataCamp](https://app.datacamp.com/learn/skill-tracks) courses. These require a paid membership, but I think it's well worth the money: there are no adds, the lessons have built-in code editors with hints and auto-"grading", and the content is pared down to the essentials.
 
 ## Learning python
 Python and its numerical array programming package, numpy, have become so ubiquitous in the sciences that they were the topic of a 2020 review [article](https://www.nature.com/articles/s41586-020-2649-2) in Nature!
