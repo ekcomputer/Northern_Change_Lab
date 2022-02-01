@@ -103,7 +103,9 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 5. [Resources](https://sites.google.com/view/eeps1960d-spring2021/resources?authuser=0) from Karianne Bergen's Machine Learning for Earth & Environment class at Brown (EEPS1960d)
 
-6. ... Many others!
+6. [DELTA](https://github.com/nasa/delta) - A NASA toolbox (run from command line or python) for turnkey machine learning workflows- it tiles raster into chips, runs a classification algorithm on it (defaults are various neural networks), and restitches results. You give directories of images, training data as categorical rasters, and a yml file with desired algorithm parameters and it trains and runs the model!
+
+7. ... Many others!
 
 ## Statistics
 1. [An Introduction to Statistics with Python](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-28316-6#about) (Thomas Haslwanter, Springer, 2016)
@@ -149,6 +151,7 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 6. QGIS hydrology toolboxes (includes GDAL, GRASS and SAGA algorithms)
 7. [Whitebox GAT](https://www.whiteboxgeo.com/geospatial-software/): geomorphology package Jessica likes: GUI and CLI. Includes citations for the algorithms.
 8. [STARS](https://www.fs.fed.us/rm/boise/AWAE/projects/SpatialStreamNetworks.shtml) stream modeling software as a (buggy) ArcGIS package. Designed to interface with an R toolbox called SSN that computes spatial stats, such as semivariogram, but calculated along stream distance. Includes hydrology tools such as reach-contributing area and others. Popular with aquatic biologists studying things like salmon density vs temperature along streams. Annual tutorial workshops. Ethan attended one in 2019.
+9. [PCRaster](https://pcraster.geo.uu.nl/) - python toolbox for "spatio-temporal environmental models", including calculting watersheds and reach contributing area.
 
 ## GDAL/OGR command line reference
 * [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
