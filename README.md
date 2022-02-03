@@ -1,4 +1,4 @@
-# Northern Change Lab Repo
+# Brown University Northern Change Lab Repo
 
 Add whatever code you think is useful for remote sensing data analysis and miscellaneous coding. This [repo](https://github.com/ekcomputer/Northern_Change_Lab) is now maintained by Ethan Kyzivat.
 
