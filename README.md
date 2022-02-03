@@ -1,6 +1,6 @@
 # Brown University Northern Change Lab Repo
 
-Add whatever code you think is useful for remote sensing data analysis and miscellaneous coding. This [repo](https://github.com/ekcomputer/Northern_Change_Lab) is now maintained by Ethan Kyzivat.
+A centralized repository that links to the individual repos used by members of the [Northern Change Research Lab](https://northernchange.brown.edu/) at Brown. See [Resources.md](Resources.md) for an evolving list of useful tutorials and resources for programming in our research areas. Add whatever code you think is useful for remote sensing data analysis and miscellaneous coding. This [repo](https://github.com/ekcomputer/Northern_Change_Lab) is now maintained by Ethan Kyzivat.
 
 ## Description of repositories
 - [Image-Proc](https://github.com/ekcomputer/Image-Proc)  A growing set of image processing functions in matlab
