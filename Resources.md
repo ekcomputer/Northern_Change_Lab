@@ -142,6 +142,21 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 2. ArcGIS Desktop
 3. CloudCompare: open-source GIS-like software for all 3D formats, especially point clouds. Can build surfaces, subsample points, make videos and has some rendering features such as illumination angle.
 
+## Geospatial plotting and map packages for python
+Although python is excellent at managing and processing geospatial data, visualizing it beyond simple `matplotlib` plots is less seamless. Packages that require enabling jupyterlab extensions seem to be more prone to dependency conflicts. See this [article](https://towardsdatascience.com/4-must-have-jupyterlab-extensions-for-geospatial-data-science-f3cf7822de4b) for some inspo.
+1. [cartopy](https://scitools.org.uk/cartopy/docs/latest/) (since 2016, originated from matplotlib + [basemap](https://matplotlib.org/basemap/index.html#), which is now deprecated) - "originally developed at the UK Met Office" - simple [tutorial](https://scitools.org.uk/cartopy/docs/latest/matplotlib/intro.html#beautifully-simple-maps). Another [tutorial](https://colab.research.google.com/drive/1CozylyIqLGKZLIeHX16YkGhMl9L7gcO7#scrollTo=-4yBq1aPXmB0) in Google Colab from [EEPS1960d](https://sites.google.com/view/eeps1960d-spring2021/home). I don't believe maps are interactive unless you install the ipympl interactive [widget](https://github.com/matplotlib/ipympl) and enable with `%matplotlib widget` Basemaps need to be downloaded with a line of code.
+2. [plotly](https://plotly.com/graphing-libraries/) + [mapbox](https://www.mapbox.com/maps) + [dash](https://plotly.com/dash/) - [examples](https://plotly.com/python/maps/)
+3. [folium](https://github.com/python-visualization/folium) - good basemap functionality with one line of code. To plot rasters, you must reproject to match rest of map, convert to 8bit and remove NaNs (requires rioxarray). [Tutorial](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/) from earthdatascience.org
+4. ipyleaflet - recommended in geohackweek, but I had dependency issues with other packages and jupyterlab extensions
+5. geoviews - recommended in geohackweek, and it works successfully using bokeh for visualizations, although slowly.
+6. [whitebox-python](https://github.com/giswqs/whitebox-python) by Qiusheng Wu
+7. [leafmap](https://github.com/giswqs/leafmap) by Qiusheng Wu
+8. [geemap](https://github.com/giswqs/geemap) by Qiusheng Wu
+9. [GeoJSON](https://github.com/jupyterlab/jupyter-renderers/tree/master/packages/geojson-extension) - a simple way of mapping geojson files or text strings with a basemap in a new jupyter tab or notebook cell. Not designed for viewing multiple layers. Requires enabling jupyterlab extensions
+10. ggplot for python?
+11. [mapbox-gl](https://github.com/mapbox/mapboxgl-jupyter) - I've never used, but it's also in the [tutorial](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/) from earthdatascience.org. Requires free MapBox Access Token to view basemaps, and is supposedly less well-documented than folium.
+12. [keplergl](https://github.com/keplergl/kepler.gl). Built around mapbox-gl and optimized for big data and 3d visualizations. Looks complicated to install. Requires enabling jupyterlab extensions
+13. 
 ## DEM tools
 1. RichDEM
 2. TauDEM
