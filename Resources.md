@@ -156,7 +156,7 @@ Although python is excellent at managing and processing geospatial data, visuali
 10. ggplot for python?
 11. [mapbox-gl](https://github.com/mapbox/mapboxgl-jupyter) - I've never used, but it's also in the [tutorial](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/) from earthdatascience.org. Requires free MapBox Access Token to view basemaps, and is supposedly less well-documented than folium.
 12. [keplergl](https://github.com/keplergl/kepler.gl). Built around mapbox-gl and optimized for big data and 3d visualizations. Looks complicated to install. Requires enabling jupyterlab extensions
-13. 
+
 ## DEM tools
 1. RichDEM
 2. TauDEM
