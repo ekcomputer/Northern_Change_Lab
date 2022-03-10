@@ -63,9 +63,10 @@ Python and its numerical array programming package, numpy, have become so ubiqui
  * Many others...just google cheat sheets for numpy, pandas, matplotlib, jupyter, xarray
 
 10. Old school? Here are some textbooks:
-* [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) (Hans Petter Langtangen, Springer, 2012)
-* [Python Data Science Handbook](https://www-oreilly-com.revproxy.brown.edu/library/view/python-data-science/9781491912126/?ar) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application
+* [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) Hans Petter Langtangen, Springer, 2012. (Available online through Brown library)
+* [Python Data Science Handbook](https://www-oreilly-com.revproxy.brown.edu/library/view/python-data-science/9781491912126/?ar) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application. (Available online through Brown library)
 * [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools,and Techniques to Build Intelligent Systems](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781838826048/) by Aurélien Géron (available online through Brown Library)
+* [Earth Observation using Python: A Practical Programming Guide](https://www.wiley.com/en-us/Earth+Observation+using+Python%3A+A+Practical+Programming+Guide-p-9781119606888) by Rebekah B. Esmaili, 2021 - Written by a friend of Jessica's. An up-to-date overview of modern satellites, all the necessary python packages for loading, manipulating, and plotting their data, an intro to python, and many practical examples. Stops short of data analysis and machine learning. 
 
 ## Python for tabular data analysis: pandas package
 1. A list of [tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) from pydata.org.
