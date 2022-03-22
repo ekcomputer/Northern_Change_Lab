@@ -11,6 +11,7 @@ A centralized repository that links to the individual repos used by members of t
 - [kats_funcs](https://github.com/elezine/funcs) Katia's frequently used functions
 - [random-wetlands](https://github.com/ekcomputer/random-wetlands) Ethan's main scripts for running UAVSAR classification and analysis with methane data
 - [PixelClassifier-fork](https://github.com/ekcomputer/PixelClassifier-fork) Random forests classification for random-wetlands; heavily modified from [HMS-IDAC](https://github.com/HMS-IDAC/PixelClassifier)
+- [pixel-smasher](https://github.com/ekcomputer/pixel-smasher) Satellite super resolution workflow, modified from [Xintao Wang](https://github.com/xinntao/BasicSR)
 
 ## Using git submodule
 
@@ -42,3 +43,6 @@ git submodule update --remote [SUBMODULE NAME]
 ```
 
 Minute details on git submodule available [here](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+
+### Note on file sizes
+The repo "pixel-smasher" contains model parameter files that take up a lot of space. If you don't need to actually run the GAN model, you may consider deleting model files (end in .pth).

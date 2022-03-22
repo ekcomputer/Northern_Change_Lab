@@ -25,3 +25,6 @@
 [submodule "PixelClassifier-fork"]
 	path = PixelClassifier-fork
 	url = https://github.com/ekcomputer/PixelClassifier-fork
+[submodule "pixel-smasher"]
+	path = pixel-smasher
+	url = https://github.com/ekcomputer/pixel-smasher
