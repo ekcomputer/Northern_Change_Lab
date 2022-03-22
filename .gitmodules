@@ -22,3 +22,6 @@
 [submodule "random-wetlands"]
 	path = random-wetlands
 	url = https://github.com/ekcomputer/random-wetlands
+[submodule "PixelClassifier-fork"]
+	path = PixelClassifier-fork
+	url = https://github.com/ekcomputer/PixelClassifier-fork

@@ -9,6 +9,8 @@ A centralized repository that links to the individual repos used by members of t
 - [gps_scrripts](https://github.com/ekcomputer/gps_scripts) A collection of simple bash shell scripts for manipulating GPS files using teqc/bash.
 - [water-mask](https://github.com/ekcomputer/water-mask)    Ethan's masters thesis paper!
 - [kats_funcs](https://github.com/elezine/funcs) Katia's frequently used functions
+- [random-wetlands](https://github.com/ekcomputer/random-wetlands) Ethan's main scripts for running UAVSAR classification and analysis with methane data
+- [PixelClassifier-fork](https://github.com/ekcomputer/PixelClassifier-fork) Random forests classification for random-wetlands; heavily modified from [HMS-IDAC](https://github.com/HMS-IDAC/PixelClassifier)
 
 ## Using git submodule
 
