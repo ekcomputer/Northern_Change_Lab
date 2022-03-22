@@ -19,3 +19,6 @@
 [submodule "kats_funcs"]
 	path = kats_funcs
 	url = https://github.com/elezine/kats_funcs.git
+[submodule "random-wetlands"]
+	path = random-wetlands
+	url = https://github.com/ekcomputer/random-wetlands
