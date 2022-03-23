@@ -73,6 +73,13 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 
 2. Geohackweek and Intro to Earth Data Science online textbook chapters
 
+## Introduction to the Linux operating system
+The following tutorials are recommended by the [NASA Center for Climate Simulation](https://www.nccs.nasa.gov/nccs-users/instructional/adapt-instructional):
+* Introduction to Linux [Tutorial](https://ryanstutorials.net/linuxtutorial/)
+* More Advanced Linux [Tutorial](https://www.tutorialspoint.com/unix/index.htm)
+* SATERN Linux shell-scripting course [code](https://satern.nasa.gov/): os_doss_a01_it_enus (requires NASA affiliation)
+* Linux [Handbook](https://linuxhandbook.com/linux-file-permissions/) on file-permissions and ownership.
+
 ## Shell scripting in bash
 Bash is the most commonly used shell scripting language in minutes systems, and is often the default.  It is the go-to for scientific processing workflows, and can be used to run other programs: python, matlab, etc. It is delightfully old-school, yet highly powerful.
 
