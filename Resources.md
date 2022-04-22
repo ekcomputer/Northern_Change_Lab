@@ -2,7 +2,7 @@
 
 ## All-in-one tutorials for earth data science
 * Earth Lab at University of Colorado, Boulder (Earth Data Analytics Online Certificate): 
-  * [Online "textbook:" Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
+  * Earth Data Analytics Online Certificate online "textbook:" [Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
   * [Intermediate earth data science textbook](https://www.earthdatascience.org/courses/use-data-open-source-python/) - More necessary details for geospatial analysis and plotting using packages such as rasterio, xarray, rioxarray, shapely, and geopandas.
   * [Workshop: Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib](https://www.earthdatascience.org/workshops/gis-open-source-python/) - Covers similar material to geohackweek, but with more brevity
 
@@ -23,6 +23,8 @@
 * [Geospatial Data Analysis with Python](https://github.com/UW-GDA/gda_course_2020) - course by [David Shean](https://dshean.github.io/) at UW, one of the creaters of ICESat-2 Hackweek.
 
 * [Pangeo tutorial](https://github.com/pangeo-data/pangeo-tutorial) - Intro to the main Pangeo packages: jupyter, geopandas, xarray, dask, and intake
+
+* [WVView](http://www.wvview.org/course_directory.html) - a "consortium of public, private, and non-profit remote sensing organizations" with a mission that includes: "Develop free and open courses and training materials associated with a wide range of geospatial topics and technologies." They host several free online courses.
 
 ## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
@@ -165,6 +167,16 @@ Although python is excellent at managing and processing geospatial data, visuali
 10. ggplot for python?
 11. [mapbox-gl](https://github.com/mapbox/mapboxgl-jupyter) - I've never used, but it's also in the [tutorial](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/) from earthdatascience.org. Requires free MapBox Access Token to view basemaps, and is supposedly less well-documented than folium.
 12. [keplergl](https://github.com/keplergl/kepler.gl). Built around mapbox-gl and optimized for big data and 3d visualizations. Looks complicated to install. Requires enabling jupyterlab extensions
+
+## Python environments
+Not all of these packages play together nicely, and I have spent a lot of time trying to fix dependency conflicts within my geospatial conda environments. This is completely typical for open-source software, but the benefits outweight the cost, in my opinion! In general, I have found the best ways of fixing conflicts is starting from scratch and installing as few packages as possible. You can re-create an environment from only the packages you explicitly installed, and not from whatever dependencies were necessary at the time using the conda command: `conda env export --from-history`. I have found this command helpful in these scenarios.
+
+Fortunately, there are some great resources for existing geospatial python environments. Check out the environment files in:
+* Geohackweek tutorial [environments](https://github.com/geohackweek/tutorial_contents) conda `environment.yml` files for the various exercises. As far as I can tell, they don't provide a combined environment that works for everything.
+* [Earth Analytics python environment](https://github.com/earthlab/earth-analytics-python-env/blob/main/environment.yml) - developed for the Earth Data Analytics Online Certificate courses 
+
+My new favorite method is a package that automatically installs a very complete geospatial environment when you install it:
+* [Python-geospatial](https://github.com/giswqs/python-geospatial) by Qiusheng Wu, many great links within.
 
 ## DEM tools
 1. RichDEM
