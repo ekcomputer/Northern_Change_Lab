@@ -196,5 +196,10 @@ Git is software for code version control for individuals who want to be able to 
 ## R
 ...
 
+## Getting help
+* [GIS stack exchange](https://gis.stackexchange.com/) will be your best friend!
+* [The Spatial Community](https://thespatialcommunity.org/) runs a slack workspace with over 8k people on it, many of them adept programmers and web developers in various geospatial-related industries. It is very friendly and welcoming community.
+
 ## Career development
 * [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), by Sundar A. Christopher, 2011
+* [The Spatial Community](https://thespatialcommunity.org/) (see above)
