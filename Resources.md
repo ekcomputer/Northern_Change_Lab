@@ -102,6 +102,7 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 ## Remote sensing tutorials
 
 1. [NASA ARSET](https://arset.gsfc.nasa.gov/) has dozens of tutorials on a number of topics, from sensors like optical and SAR to applications such as wildfires and hydrology.
+2. NASA SERVIR [SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation) - "The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation is the culmination of a two-year collaboration between NASA SERVIR and SilvaCarbon. Five trainings, led by six SAR subject matter experts, were held at hubs throughout the SERVIR network. The topics of these trainings included SAR basics, SAR for forest change detection, forest height estimation, biomass estimation, mangrove monitoring, and sampling design."
 
 ## Data science/machine learning
 
