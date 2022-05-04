@@ -203,12 +203,14 @@ Git is software for code version control for individuals who want to be able to 
 * Learning through a series of turorials on [github](https://try.github.io/)
 * Another jupyter notebook-based [tutorial](https://github.com/patrickcgray/deep_learning_ecology/blob/master/Git_Basics.ipynb) for learning git, from Patrick Gray.
 
+## Other compilations
+* Resources [lists](https://hannah-rae.github.io/resources/): Introduction to Earth Observation and Introduction to Machine Learning/Deep Learning by Hannah Kerner
 
 ## Matlab
 ...
 
 ## R
-...
+* A great course on [spatial statistics](https://campus.datacamp.com/courses/spatial-statistics-in-r/introduction-74ac3ff4-fe57-4ee5-a9f9-e2d34da0c652?ex=1) on DataCamp (requires subscription- sometimes free to college students)
 
 ## Getting help
 * [GIS stack exchange](https://gis.stackexchange.com/) will be your best friend!
