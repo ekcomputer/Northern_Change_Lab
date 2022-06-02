@@ -170,6 +170,9 @@ Although python is excellent at managing and processing geospatial data, visuali
 11. [mapbox-gl](https://github.com/mapbox/mapboxgl-jupyter) - I've never used, but it's also in the [tutorial](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/) from earthdatascience.org. Requires free MapBox Access Token to view basemaps, and is supposedly less well-documented than folium.
 12. [keplergl](https://github.com/keplergl/kepler.gl). Built around mapbox-gl and optimized for big data and 3d visualizations. Looks complicated to install. Requires enabling jupyterlab extensions
 
+## Deep Learning
+1. [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Robin Cole - An amazing compilation of tools for every stage in the process for running neural networks on satellite images. Links to dozens of other repos with descriptions of what they are used for.
+
 ## Python environments
 Not all of these packages play together nicely, and I have spent a lot of time trying to fix dependency conflicts within my geospatial conda environments. This is completely typical for open-source software, but the benefits outweight the cost, in my opinion! In general, I have found the best ways of fixing conflicts is starting from scratch and installing as few packages as possible. You can re-create an environment from only the packages you explicitly installed, and not from whatever dependencies were necessary at the time using the conda command: `conda env export --from-history`. I have found this command helpful in these scenarios.
 
@@ -219,3 +222,4 @@ Git is software for code version control for individuals who want to be able to 
 ## Career development
 * [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), by Sundar A. Christopher, 2011
 * [The Spatial Community](https://thespatialcommunity.org/) (see above)
+* More to be posted on my personal [website](https://ethan.kyziv.at/)
