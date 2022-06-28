@@ -173,6 +173,7 @@ Although python is excellent at managing and processing geospatial data, visuali
 
 ## Deep Learning
 1. [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Robin Cole - An amazing compilation of tools for every stage in the process for running neural networks on satellite images. Links to dozens of other repos with descriptions of what they are used for.
+2. [Fast.ai](https://www.fast.ai/about/) - Making deep learning training accessible. "Deep learning is transforming the world. We are making deep learning easier to use and getting more people from all backgrounds involved through our: free courses for coders, software library, cutting-edge research, community" Written about in The Economnist, NY Times, MIT Tech Review.
 
 ## Python environments
 Not all of these packages play together nicely, and I have spent a lot of time trying to fix dependency conflicts within my geospatial conda environments. This is completely typical for open-source software, but the benefits outweight the cost, in my opinion! In general, I have found the best ways of fixing conflicts is starting from scratch and installing as few packages as possible. You can re-create an environment from only the packages you explicitly installed, and not from whatever dependencies were necessary at the time using the conda command: `conda env export --from-history`. I have found this command helpful in these scenarios.
