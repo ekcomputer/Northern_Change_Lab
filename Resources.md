@@ -26,6 +26,8 @@
 
 * [WVView](http://www.wvview.org/course_directory.html) - a "consortium of public, private, and non-profit remote sensing organizations" with a mission that includes: "Develop free and open courses and training materials associated with a wide range of geospatial topics and technologies." They host several free online courses.
 
+* Transform to Open Science ([TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing))- an in-progress NASA iniative to train the scientific workforce on open science principles.
+
 ## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
 * [Advanced Webinar: Land Cover Classification with Satellite Imagery](https://arset.gsfc.nasa.gov/land/webinars/advanced-land-classification) and [Advanced Webinar: Change Detection for Land Cover Mapping](https://arset.gsfc.nasa.gov/land/webinars/adv-change18) - overview of fundamentals of landcover classification mapping- supervised, unsupervised
