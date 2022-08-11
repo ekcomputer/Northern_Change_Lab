@@ -106,11 +106,11 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 1. [NASA ARSET](https://arset.gsfc.nasa.gov/) has dozens of tutorials on a number of topics, from sensors like optical and SAR to applications such as wildfires and hydrology.
 2. NASA SERVIR [SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation) - "The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation is the culmination of a two-year collaboration between NASA SERVIR and SilvaCarbon. Five trainings, led by six SAR subject matter experts, were held at hubs throughout the SERVIR network. The topics of these trainings included SAR basics, SAR for forest change detection, forest height estimation, biomass estimation, mangrove monitoring, and sampling design."
 
-## Data science/machine learning
+## Data science
 
 1. [Introduction to Data Science A Python Approach to Concepts, Techniques and Applications](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-50017-1) (Laura Igual and Santi Seguí, Springer 2017)
 
-2. Artificial Intelligence for Earth System Sciences workshop (https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school): includes archived workshop tutorials and jupyter notebooks, organized by NCAR.
+2. [Practical Data Science](https://www.practicaldatascience.org/html/index.html) - Duke University Data Science Masters Program class available publically - covers everything beyond numpy and pandas
 
 3. [ORNL DAAC learning resources](https://daac.ornl.gov/resources/learning/): Dozens of quick tutorials on specific topcs such as downloading and analyzing multi-spectral AVIRIS data to using their WMS web maps in GIS tools.
 
@@ -118,9 +118,13 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 5. [Resources](https://sites.google.com/view/eeps1960d-spring2021/resources?authuser=0) from Karianne Bergen's Machine Learning for Earth & Environment class at Brown (EEPS1960d)
 
-6. [DELTA](https://github.com/nasa/delta) - A NASA toolbox (run from command line or python) for turnkey machine learning workflows- it tiles raster into chips, runs a classification algorithm on it (defaults are various neural networks), and restitches results. You give directories of images, training data as categorical rasters, and a yml file with desired algorithm parameters and it trains and runs the model!
+6. ... Many others!
 
-7. ... Many others!
+## Machine learning
+
+1. Artificial Intelligence for Earth System Sciences workshop (https://www2.cisl.ucar.edu/events/summer-school/ai4ess/2020/artificial-intelligence-earth-system-science-ai4ess-summer-school): includes archived workshop tutorials and jupyter notebooks, organized by NCAR.
+
+2. [DELTA](https://github.com/nasa/delta) - A NASA toolbox (run from command line or python) for turnkey machine learning workflows- it tiles raster into chips, runs a classification algorithm on it (defaults are various neural networks), and restitches results. You give directories of images, training data as categorical rasters, and a yml file with desired algorithm parameters and it trains and runs the model!
 
 ## Statistics
 1. [An Introduction to Statistics with Python](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-28316-6#about) (Thomas Haslwanter, Springer, 2016)
