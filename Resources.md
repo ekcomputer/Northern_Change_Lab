@@ -135,6 +135,8 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 4. [Which Statistical Test?](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) from UCLA Statistical Consulting Group
 
+5. [Python Spatial Analysis Library (pysal)](https://github.com/pysal/pysal)- a series of packages for spatial statistics, including exploring, modeling, and visualizing spatial data
+
 ## Google Earth Engine (GEE)
 
 1. Straight from the source: [guides](https://developers.google.com/earth-engine/guides) and [tutorials](https://developers.google.com/earth-engine/tutorials/tutorials). Lots of links to resources during [Geo For Good 2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20/resources). 
