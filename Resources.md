@@ -136,6 +136,7 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 4. [Which Statistical Test?](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) from UCLA Statistical Consulting Group
 
 5. [Python Spatial Analysis Library (pysal)](https://github.com/pysal/pysal)- a series of packages for spatial statistics, including exploring, modeling, and visualizing spatial data
+   * Many tuorials, including this class on it: ["Geographic Data Science with PySAL and the pydata stack"](http://darribas.org/gds_scipy16/)
 
 ## Google Earth Engine (GEE)
 
@@ -178,6 +179,7 @@ Although python is excellent at managing and processing geospatial data, visuali
 10. ggplot for python?
 11. [mapbox-gl](https://github.com/mapbox/mapboxgl-jupyter) - I've never used, but it's also in the [tutorial](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/) from earthdatascience.org. Requires free MapBox Access Token to view basemaps, and is supposedly less well-documented than folium.
 12. [keplergl](https://github.com/keplergl/kepler.gl). Built around mapbox-gl and optimized for big data and 3d visualizations. Looks complicated to install. Requires enabling jupyterlab extensions
+13. [contextlily](https://contextily.readthedocs.io/en/latest/) - Used for basemaps in plots - "is a small Python 3 (3.7 and above) package to retrieve tile maps from the internet. It can add those tiles as basemap to matplotlib figures or write tile maps to disk into geospatial raster files. Bounding boxes can be passed in both WGS84 (EPSG:4326) and Spheric Mercator (EPSG:3857)."
 
 ## Deep Learning
 1. [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Robin Cole - An amazing compilation of tools for every stage in the process for running neural networks on satellite images. Links to dozens of other repos with descriptions of what they are used for.
