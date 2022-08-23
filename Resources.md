@@ -18,6 +18,8 @@
  * [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC/index.html) -  CSC Finland – IT Center for Science 3-day course
  * [Welcome to Geo-Python 2021!](https://geo-python-site.readthedocs.io/en/latest/index.html)
 
+* [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html) - George Washington University Geography - Michael Mann, Steven Chao, Jordan Graesser, Nina Feldman
+
 * ICESat-2 [Hackweeks](https://github.com/ICESAT-2HackWeek) - focused on geospatial data science, of course with a focus on ICESat-2 data manipulation and the [icepyx](https://github.com/icesat2py/icepyx) package.
 
 * [Geospatial Data Analysis with Python](https://github.com/UW-GDA/gda_course_2020) - course by [David Shean](https://dshean.github.io/) at UW, one of the creaters of ICESat-2 Hackweek.
