@@ -20,6 +20,8 @@
 
 * [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html) - George Washington University Geography - Michael Mann, Steven Chao, Jordan Graesser, Nina Feldman
 
+* [Geographic Data Science](https://darribas.org/gds_course/content/home.html) - Dr. Dani Arribas-Bel - University of Liverpool, Fall 2021.
+
 * ICESat-2 [Hackweeks](https://github.com/ICESAT-2HackWeek) - focused on geospatial data science, of course with a focus on ICESat-2 data manipulation and the [icepyx](https://github.com/icesat2py/icepyx) package.
 
 * [Geospatial Data Analysis with Python](https://github.com/UW-GDA/gda_course_2020) - course by [David Shean](https://dshean.github.io/) at UW, one of the creaters of ICESat-2 Hackweek.
