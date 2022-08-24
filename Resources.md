@@ -1,6 +1,6 @@
 # Resources and tutorials
 
-## All-in-one tutorials for earth or geographic data science
+## All-in-one tutorials for earth or geospatial data science
 * Earth Lab at University of Colorado, Boulder (Earth Data Analytics Online Certificate): 
   * Earth Data Analytics Online Certificate online "textbook:" [Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/) - zero to hero tutorial covering bash, python, git/github, and data science workflows - The best all in one tutorial on these topics I have seen!
   * [Intermediate earth data science textbook](https://www.earthdatascience.org/courses/use-data-open-source-python/) - More necessary details for geospatial analysis and plotting using packages such as rasterio, xarray, rioxarray, shapely, and geopandas.
