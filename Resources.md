@@ -22,6 +22,10 @@
 
 * [Geographic Data Science](https://darribas.org/gds_course/content/home.html) - Dr. Dani Arribas-Bel - University of Liverpool, Fall 2021.
 
+* [Introduction to Python for Geographic Data Analysis](https://pythongis.org/) - Henrikki Tenkanen, Vuokko Heikinheimo & David Whipp - Online version of book “Introduction to Python for Geographic Data Analysis”
+
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio J. Rey, Dani Arribas-Bel, Levi J. Wolf - looks useful
+
 * ICESat-2 [Hackweeks](https://github.com/ICESAT-2HackWeek) - focused on geospatial data science, of course with a focus on ICESat-2 data manipulation and the [icepyx](https://github.com/icesat2py/icepyx) package.
 
 * [Geospatial Data Analysis with Python](https://github.com/UW-GDA/gda_course_2020) - course by [David Shean](https://dshean.github.io/) at UW, one of the creaters of ICESat-2 Hackweek.
