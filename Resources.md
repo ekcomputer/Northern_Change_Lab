@@ -203,6 +203,10 @@ Fortunately, there are some great resources for existing geospatial python envir
 My new favorite method is a package that automatically installs a very complete geospatial environment when you install it:
 * [Python-geospatial](https://github.com/giswqs/python-geospatial) by Qiusheng Wu, many great links within.
 
+Other compilations of python and GIS tools
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+* [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+
 ## DEM tools
 1. RichDEM
 2. TauDEM
