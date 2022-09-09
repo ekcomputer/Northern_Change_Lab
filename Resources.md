@@ -24,7 +24,7 @@
 
 * [Introduction to Python for Geographic Data Analysis](https://pythongis.org/) - Henrikki Tenkanen, Vuokko Heikinheimo & David Whipp - Online version of book “Introduction to Python for Geographic Data Analysis”
 
-* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio J. Rey, Dani Arribas-Bel, Levi J. Wolf - looks useful
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio J. Rey, Dani Arribas-Bel, Levi J. Wolf - looks useful. Uses pysal for stats.
 
 * ICESat-2 [Hackweeks](https://github.com/ICESAT-2HackWeek) - focused on geospatial data science, of course with a focus on ICESat-2 data manipulation and the [icepyx](https://github.com/icesat2py/icepyx) package.
 
