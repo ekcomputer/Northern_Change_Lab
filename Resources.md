@@ -34,6 +34,8 @@
 
 * [WVView](http://www.wvview.org/course_directory.html) - a "consortium of public, private, and non-profit remote sensing organizations" with a mission that includes: "Develop free and open courses and training materials associated with a wide range of geospatial topics and technologies." They host several free online courses.
 
+* [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html) - "This book contains the materials of the 3-credit undergraduate course named Introduction to Spatial Data Programming with Python, given at the Department of Geography and Environmental Development, Ben-Gurion University of the Negev, in Spring 2022."
+
 * Transform to Open Science ([TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing))- an in-progress NASA iniative to train the scientific workforce on open science principles.
 
 ## Introductions to remote sensing from NASA ARSET
