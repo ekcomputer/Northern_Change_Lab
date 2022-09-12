@@ -114,7 +114,24 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 ## Remote sensing tutorials
 
 1. [NASA ARSET](https://arset.gsfc.nasa.gov/) has dozens of tutorials on a number of topics, from sensors like optical and SAR to applications such as wildfires and hydrology.
-2. NASA SERVIR [SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation) - "The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation is the culmination of a two-year collaboration between NASA SERVIR and SilvaCarbon. Five trainings, led by six SAR subject matter experts, were held at hubs throughout the SERVIR network. The topics of these trainings included SAR basics, SAR for forest change detection, forest height estimation, biomass estimation, mangrove monitoring, and sampling design."
+
+## Synthetic Aperture Radar (SAR) tutorials
+1. NASA SERVIR [SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-estimation) - "The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation is the culmination of a two-year collaboration between NASA SERVIR and SilvaCarbon. Five trainings, led by six SAR subject matter experts, were held at hubs throughout the SERVIR network. The topics of these trainings included SAR basics, SAR for forest change detection, forest height estimation, biomass estimation, mangrove monitoring, and sampling design."
+2. [SERVIR Global: SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/Global/Articles/Article/2674/sar-handbook-comprehensive-methodologies-for-forest-monitoring-and-biomass-esti)
+3. [UAF SAR Capacity Building Center](https://learnsar.open.uaf.edu/) - Free, self-paced archived courses via EdX. As of September 2022, only SAR for hazards is available.
+4. NRCAN SAR tutorial
+5. [Sisters of SAR resources](https://sistersofsar.wixsite.com/sistersofsar/sar-resources)
+
+## SAR Software
+1. PolSAR Pro (ESA)
+2. SNAP (ESA)
+3. Sentinel Playground (web software for visualization)
+4. ASF Vertex (download scenes, apply terrain correction, order inSAR processing)
+5. ASF Mapready
+6. ASF OpenSARLab
+7. [RSCube](https://github.com/simard-landscape-lab/rscube) - Landcover classification using SAR from Marc Simard's group
+8. [SnowEx UAVSAR tools on Github](https://github.com/SnowEx/uavsar_pytools)
+9. Many others on [Awesome SAR github curated list](https://github.com/RadarCODE/awesome-sar) - similar to Awesome Python, etc. 
 
 ## Data science
 
