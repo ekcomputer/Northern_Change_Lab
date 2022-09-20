@@ -227,8 +227,8 @@ Other compilations of python and GIS tools
 * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## DEM tools
-1. [RichDEM]( https://github.com/r-barnes/richdem): High-performance Terrain and Hydrology Analysis
-2. TauDEM
+1. [RichDEM]( https://github.com/r-barnes/richdem): High-performance Terrain and Hydrology Analysis. It is very helpful for perfoming hydrological analysis on Big data. Flow routing on the complex wih fill-spill and merge has also been added. 
+2. [TauDEM](https://github.com/dtarb/TauDEM): Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. 
 3. [Topotoolbox](https://ch.mathworks.com/matlabcentral/fileexchange/50124-topotoolbox) (Matlab): super popular File Exchange package that runs smoothly and has great tutorials.
 4. [Mod-WET](https://margulis-group.github.io/teaching/): (Matlab) accompanying matlab package for Steven Margulis' online hydrology textbook.
 5. Arcmap standard hydrology toolbox and optimized pit removal tool
