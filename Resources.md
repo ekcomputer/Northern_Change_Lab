@@ -153,6 +153,8 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 
 2. [DELTA](https://github.com/nasa/delta) - A NASA toolbox (run from command line or python) for turnkey machine learning workflows- it tiles raster into chips, runs a classification algorithm on it (defaults are various neural networks), and restitches results. You give directories of images, training data as categorical rasters, and a yml file with desired algorithm parameters and it trains and runs the model!
 
+3. [Solaris](https://github.com/CosmiQ/solaris) - An open source ML pipeline for overhead imagery by defense intelligence contractor CosmiQ Works. Tiling datasets, raster/vector/ML format conversion, segmentation/object detection/deep learning, evaluation
+
 ## Statistics
 1. [An Introduction to Statistics with Python](https://link-springer-com.revproxy.brown.edu/book/10.1007%2F978-3-319-28316-6#about) (Thomas Haslwanter, Springer, 2016)
 
