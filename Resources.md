@@ -239,6 +239,13 @@ Other compilations of python and GIS tools
 8. [STARS](https://www.fs.fed.us/rm/boise/AWAE/projects/SpatialStreamNetworks.shtml) stream modeling software as a (buggy) ArcGIS package. Designed to interface with an R toolbox called SSN that computes spatial stats, such as semivariogram, but calculated along stream distance. Includes hydrology tools such as reach-contributing area and others. Popular with aquatic biologists studying things like salmon density vs temperature along streams. Annual tutorial workshops. Ethan attended one in 2019.
 9. [PCRaster](https://pcraster.geo.uu.nl/) - python toolbox for "spatio-temporal environmental models", including calculting watersheds and reach contributing area.
 
+## Hydrology open-source/free textbooks
+1. [Physical Hydrology course (Utah_State_University)](https://edx.hydrolearn.org/courses/course-v1:Utah_State_University+CEE6400+2019_Fall/about) on Hydrolearn - Lane/Garousi-Nejad - for Junior/Senior Hydrology and Water Resources Engineering Students
+2. The Groundwater Project [books](https://gw-project.org/books/)
+3. [Rain or Shine](https://open.umn.edu/opentextbooks/textbooks/rain-or-shine) - Ochsner/Howerton/Ellis - This text is an introduction to soil physical properties and processes.
+4. [Hydrological Drought](http://europeandroughtcentre.com/resources/hydrological-drought-1st-edition/) – 1st Edition (2004) - Tallaksen/van Lanen- from the European Drought Centre
+5. Techniques of Water-Resources Investigations [Reports](https://pubs.usgs.gov/twri/index090905.html) - a massive collection from the [USGS Publications Warehouse](https://pubs.er.usgs.gov/)
+
 ## GDAL/OGR command line reference
 * [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
 * Another less-helpful [OGR cheat sheat](https://www.bostongis.com/PrinterFriendly.aspx?content_name=ogr_cheatsheet)
