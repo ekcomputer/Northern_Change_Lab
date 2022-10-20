@@ -240,11 +240,12 @@ Other compilations of python and GIS tools
 9. [PCRaster](https://pcraster.geo.uu.nl/) - python toolbox for "spatio-temporal environmental models", including calculting watersheds and reach contributing area.
 
 ## Hydrology open-source/free textbooks
-1. [Physical Hydrology course (Utah_State_University)](https://edx.hydrolearn.org/courses/course-v1:Utah_State_University+CEE6400+2019_Fall/about) on Hydrolearn - Lane/Garousi-Nejad - for Junior/Senior Hydrology and Water Resources Engineering Students
-2. The Groundwater Project [books](https://gw-project.org/books/)
-3. [Rain or Shine](https://open.umn.edu/opentextbooks/textbooks/rain-or-shine) - Ochsner/Howerton/Ellis - This text is an introduction to soil physical properties and processes.
-4. [Hydrological Drought](http://europeandroughtcentre.com/resources/hydrological-drought-1st-edition/) – 1st Edition (2004) - Tallaksen/van Lanen- from the European Drought Centre
-5. Techniques of Water-Resources Investigations [Reports](https://pubs.usgs.gov/twri/index090905.html) - a massive collection from the [USGS Publications Warehouse](https://pubs.er.usgs.gov/)
+1. [Introduction to Hydrology](https://margulis-group.github.io/teaching/) - Margulis - Great textbook on fundamentals of surface, subsurface, and atmospheric hydrology.
+2. [Physical Hydrology course (Utah_State_University)](https://edx.hydrolearn.org/courses/course-v1:Utah_State_University+CEE6400+2019_Fall/about) on Hydrolearn - Lane/Garousi-Nejad - for Junior/Senior Hydrology and Water Resources Engineering Students
+3. The Groundwater Project [books](https://gw-project.org/books/)
+4. [Rain or Shine](https://open.umn.edu/opentextbooks/textbooks/rain-or-shine) - Ochsner/Howerton/Ellis - This text is an introduction to soil physical properties and processes.
+5. [Hydrological Drought](http://europeandroughtcentre.com/resources/hydrological-drought-1st-edition/) – 1st Edition (2004) - Tallaksen/van Lanen- from the European Drought Centre
+6. Techniques of Water-Resources Investigations [Reports](https://pubs.usgs.gov/twri/index090905.html) - a massive collection from the [USGS Publications Warehouse](https://pubs.er.usgs.gov/)
 
 ## GDAL/OGR command line reference
 * [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
