@@ -276,4 +276,5 @@ Git is software for code version control for individuals who want to be able to 
 * [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), by Sundar A. Christopher, 2011
 * The Professor is In - Karen Kelsky - a bleak set of observations on the academic job market and practical advice for pursuing (or not pursuing) an academic career. The author also writes a [blog](https://theprofessorisin.com/) on the topic.
 * [The Spatial Community](https://thespatialcommunity.org/) (see above)
+* [Building Your Professional GIS Portfolio](https://youtu.be/wBP-s4fP5uQ) - webinar from URISA, the organization for GIS professionals. It has lots of general advice that applies to designing websites in general.
 * More to be posted on my personal [website](https://ethan.kyziv.at/)
