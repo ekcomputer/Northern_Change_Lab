@@ -172,7 +172,7 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 1. Straight from the source: [guides](https://developers.google.com/earth-engine/guides) and [tutorials](https://developers.google.com/earth-engine/tutorials/tutorials). Lots of links to resources during [Geo For Good 2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20/resources). 
 2. Also covered in [geohackweek](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/).
 3. [Examples scripts](https://code.earthengine.google.com/) in the default code editor
-4. Useful python toolboxes: [geemap](https://giswqs.github.io/geemap/)
+4. Useful python toolboxes: [geemap](https://giswqs.github.io/geemap/) with lots of documentation and [tutorials](https://courses.geemap.org/). 
 5. [Google Earth Engine with Python (EEwPython)](https://colab.research.google.com/github/csaybar/EEwPython/blob/master/index.ipynb#scrollTo=sawLOXhjfkNF) - by Cesar Aybar Camacho and Roy Yali Samaniego - A series of Colab notebooks teaching the EE python toolbox, with folium plots embedded. Adapted from Google Earth Engine Guides, linked above.
 
 ## Visualization
