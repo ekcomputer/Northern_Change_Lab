@@ -175,6 +175,8 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 4. Useful python toolboxes: [geemap](https://giswqs.github.io/geemap/) with lots of [documentation](https://geemap.org/) and [tutorials](https://courses.geemap.org/). 
 5. [Google Earth Engine with Python (EEwPython)](https://colab.research.google.com/github/csaybar/EEwPython/blob/master/index.ipynb#scrollTo=sawLOXhjfkNF) - by Cesar Aybar Camacho and Roy Yali Samaniego - A series of Colab notebooks teaching the EE python toolbox, with folium plots embedded. Adapted from Google Earth Engine Guides, linked above.
 
+__Note:__ Be sure to check out community earth engine datasets, such as as [https://gee-community-catalog.org/](https://gee-community-catalog.org/), for a much more comprehensive collection of datasets!
+
 ## Visualization
 1. [Pydeck/Google Earth Engine](https://pypi.org/project/pydeck-earthengine-layers/)
 2. [ColorMoves](https://sciviscolor.org/home/colormoves/): An interactive color map picker tool, downloadable color maps, and a script to import them into python or matlab
