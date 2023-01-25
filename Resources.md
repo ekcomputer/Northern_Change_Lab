@@ -121,6 +121,7 @@ Bash is the most commonly used shell scripting language in minutes systems, and 
 3. [UAF SAR Capacity Building Center](https://learnsar.open.uaf.edu/) - Free, self-paced archived courses via EdX. As of September 2022, only SAR for hazards is available.
 4. NRCAN SAR tutorial
 5. [Sisters of SAR resources](https://sistersofsar.wixsite.com/sistersofsar/sar-resources)
+6. EdX class: [Synthetic Aperture Radar: Hazards](https://learning.edx.org/course/course-v1:AlaskaX+SAR-401+3T2020/home) by Franz Meyer - EdX is free unless you want a certificate of completion
 
 ## SAR Software
 1. PolSAR Pro (ESA)
