@@ -271,6 +271,14 @@ Git is software for code version control for individuals who want to be able to 
 ## R
 * A great course on [spatial statistics](https://campus.datacamp.com/courses/spatial-statistics-in-r/introduction-74ac3ff4-fe57-4ee5-a9f9-e2d34da0c652?ex=1) on DataCamp (requires subscription- sometimes free to college students)
 
+## Free cloud computing resources
+* [Google Earth Engine](https://earthengine.google.com/), of course
+* [Google Colab](https://colab.research.google.com/) - cloud-hosted jupyter notebooks with a distinct Google flavor
+* [CryoCloud](https://book.cryointhecloud.com/intro.html) - from IceSAT-2 team
+* [Pangeo Cloud](https://pangeo.io/cloud.html) - for using Pangeo tools, funded through the end of 2023
+* [OpenSARlab](https://opensarlab-docs.asf.alaska.edu/) - from the Alaska Satellite Facility, free to use for the community
+* [Binder](https://mybinder.org/) - use any github repo or jupyter notebook interactively, spins up a small server without persistent storage, like Google Colab
+
 ## Getting help
 * [GIS stack exchange](https://gis.stackexchange.com/) will be your best friend!
 * [The Spatial Community](https://thespatialcommunity.org/) runs a slack workspace with over 8k people on it, many of them adept programmers and web developers in various geospatial-related industries. It is very friendly and welcoming community.
