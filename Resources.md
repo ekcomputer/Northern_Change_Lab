@@ -38,6 +38,8 @@
 
 * Transform to Open Science ([TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing))- an in-progress NASA iniative to train the scientific workforce on open science principles.
 
+* [Project Pythia Python Foundations Course](https://foundations.projectpythia.org/landing-page.html) - An education and training hub for the geoscientific Python community, from the education working group for [Pangeo](https://pangeo.io/). They also publish a variety of "[cookbooks](https://cookbooks.projectpythia.org/)" on topics like loading climate model data or machine learning with Landsat imagery.
+
 ## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
 * [Advanced Webinar: Land Cover Classification with Satellite Imagery](https://arset.gsfc.nasa.gov/land/webinars/advanced-land-classification) and [Advanced Webinar: Change Detection for Land Cover Mapping](https://arset.gsfc.nasa.gov/land/webinars/adv-change18) - overview of fundamentals of landcover classification mapping- supervised, unsupervised
