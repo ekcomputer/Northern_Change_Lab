@@ -51,6 +51,7 @@
 ## GIS and geospatial concepts
 * Earth Data Analytics Online Certificate: [Intro to coordinate reference systems](https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/intro-to-coordinate-reference-systems/)
 * [Understanding Spatial Data](https://courses.spatialthoughts.com/spatial-data-viz.html#understanding-spatial-data) - from Ujaval Gandhi course
+* List of QGIS [tutorials](https://www.qgis.org/en/site/forusers/trainingmaterial/index.html) from qgis.org in 6 languages!
 * Iowa State University Extension GIS tutorial [sheets](https://store.extension.iastate.edu/Topic/Community-Economic-Development/GIS-and-Geospatial-Technology?S=0&A=0&F=0)
 * Video [demo](https://www.facebook.com/watch/?v=283517739000616) of digitizing houses in QGIS
 
