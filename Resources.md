@@ -246,6 +246,8 @@ Other compilations of python and GIS tools
 7. [Whitebox GAT](https://www.whiteboxgeo.com/geospatial-software/): geomorphology package Jessica likes: GUI and CLI. Includes citations for the algorithms.
 8. [STARS](https://www.fs.fed.us/rm/boise/AWAE/projects/SpatialStreamNetworks.shtml) stream modeling software as a (buggy) ArcGIS package. Designed to interface with an R toolbox called SSN that computes spatial stats, such as semivariogram, but calculated along stream distance. Includes hydrology tools such as reach-contributing area and others. Popular with aquatic biologists studying things like salmon density vs temperature along streams. Annual tutorial workshops. Ethan attended one in 2019.
 9. [PCRaster](https://pcraster.geo.uu.nl/) - python toolbox for "spatio-temporal environmental models", including calculting watersheds and reach contributing area.
+10. [phoREAL](https://icesat-2.gsfc.nasa.gov/files/phoreal-geospatial-analysis-toolbox-demonstration-2020) from IceSat-2 Science Team
+11. [icepyx](https://github.com/icesat2py/icepyx) - haven't tried it
 
 ## Hydrology open-source/free textbooks
 1. [Introduction to Hydrology](https://margulis-group.github.io/teaching/) - Margulis - Great textbook on fundamentals of surface, subsurface, and atmospheric hydrology.
