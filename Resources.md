@@ -278,6 +278,9 @@ Git is software for code version control for individuals who want to be able to 
 ## R
 * A great course on [spatial statistics](https://campus.datacamp.com/courses/spatial-statistics-in-r/introduction-74ac3ff4-fe57-4ee5-a9f9-e2d34da0c652?ex=1) on DataCamp (requires subscription- sometimes free to college students)
 
+## Best data management practices
+* This [article](https://doi.org/10.1890/0012-9623-90.2.205) (Borer et al., 2007) has aged well and outlines specific principles for working with and archiving datasets (e.g. don't put spaces in column names).
+
 ## Free cloud computing resources
 * [Google Earth Engine](https://earthengine.google.com/), of course
 * [Google Colab](https://colab.research.google.com/) - cloud-hosted jupyter notebooks with a distinct Google flavor
