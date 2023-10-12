@@ -320,5 +320,6 @@ Git is software for code version control for individuals who want to be able to 
 	- Oak Ridge Institute for Science and Education [internships/fellowships](https://orise.orau.gov/internships-fellowships/index.html)
 - NOAA [internships](https://www.noaa.gov/education/opportunities/students)
 - USGS student [opportunities](https://www.usgs.gov/youth-and-education-in-science/other-student-opportunities) (through USAJobs)
+- National Park Service internships and young adulat [programs](https://www.nps.gov/subjects/youthprograms/jobs-and-internships.htm)
 - Earthscope seismology [internships](https://www.unavco.org/education/student-internships/)
 - Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students 
