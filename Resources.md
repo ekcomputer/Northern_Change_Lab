@@ -299,3 +299,26 @@ Git is software for code version control for individuals who want to be able to 
 * [The Spatial Community](https://thespatialcommunity.org/) (see above)
 * [Building Your Professional GIS Portfolio](https://youtu.be/wBP-s4fP5uQ) - webinar from URISA, the organization for GIS professionals. It has lots of general advice that applies to designing websites in general.
 * More to be posted on my personal [website](https://ethan.kyziv.at/)
+
+## Undergraduate REUs and internships
+- NSF REU [programs](https://www.nsf.gov/crssprgm/reu/)
+- Lamont Summer Intern Program
+- GSA
+	- GSA [Geocorps](https://www.geosociety.org/GSA/GSA/fieldexp/GeoCorps/home.aspx)
+	- GSA scientists in the parks/[internships](https://www.geosociety.org/GSA/GSA/fieldexp/sip/home.aspx)
+- Summer undergraduate program for planetary research ([SUPPR](https://www.lpi.usra.edu/suppr/))
+- Alaska Juneau Icefield summer [camp](https://juneauicefield.org/what-to-expect/field-camps)
+- NASA
+	- NASA SARP
+	- NASA JPL [internships](https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/)
+	- MA Space Grant [fellowships](https://maspacegrant.com/fellowships-internships/fellowship-application-form-u-s-citizens-only/)
+	- The NASA L'SPACE [Program](https://www.lspace.asu.edu/) is a free, online, interactive experience open to undergraduate STEM students interested in pursuing a career with NASA or other space organizations.
+	- NASA [DEVELOP](https://develop.larc.nasa.gov/apply.php)
+- DOE
+	- DOE Scholars undergraduate [program](https://orise.orau.gov/doescholars/)
+	- Science Undergraduate Laboratory Internships ([SULI](https://science.osti.gov/wdts/suli))
+	- Oak Ridge Institute for Science and Education [internships/fellowships](https://orise.orau.gov/internships-fellowships/index.html)
+- NOAA [internships](https://www.noaa.gov/education/opportunities/students)
+- USGS student [opportunities](https://www.usgs.gov/youth-and-education-in-science/other-student-opportunities) (through USAJobs)
+- Earthscope seismology [internships](https://www.unavco.org/education/student-internships/)
+- Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students 
