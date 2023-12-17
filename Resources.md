@@ -323,4 +323,5 @@ Git is software for code version control for individuals who want to be able to 
 - USGS student [opportunities](https://www.usgs.gov/youth-and-education-in-science/other-student-opportunities) (through USAJobs)
 - National Park Service internships and young adulat [programs](https://www.nps.gov/subjects/youthprograms/jobs-and-internships.htm)
 - Earthscope seismology [internships](https://www.unavco.org/education/student-internships/)
-- Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students 
+- Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students
+- NASA L'SPACE [Program](https://www.lspace.asu.edu/) - a free, online, interactive experience open to undergraduate STEM students interested in pursuing a career with NASA or other space - includes Mission Concept Academy and Proposal Writing and Evaluation Experience Academy (with $10k funding opportunity)
