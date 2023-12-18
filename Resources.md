@@ -77,12 +77,13 @@ Python and its numerical array programming package, numpy, have become so ubiqui
 7. [An Introduction to Numpy and Scipy](https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf)  (M. Scott Shell / UCSB) - A great introduction to the basic functions available in numpy. Can also be used as a reference guide.
 
 8. Matplotlib plotting style [guide](https://matplotlib.org/gallery.html)
+9. [Python best practices course](https://github.com/ssciwr/Python-best-practices-course) - Material for the course "Python best practices", Scientific Software Center, Heidelberg University, by Inga Ulusoy, October 2022. Focused on advanced code formatting topics, like linting and PEP style recommendations.
 
-9. One-page "cheat sheets" for common python data science packages:
+10. One-page "cheat sheets" for common python data science packages:
  * [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
  * Many others...just google cheat sheets for numpy, pandas, matplotlib, jupyter, xarray
 
-10. Old school? Here are some textbooks:
+11. Old school? Here are some textbooks:
 * [Primer on Scientific Programming with Python](https://ebookcentral-proquest-com.revproxy.brown.edu/lib/brown/detail.action?docID=1030580) Hans Petter Langtangen, Springer, 2012. (Available online through Brown library)
 * [Python Data Science Handbook](https://www-oreilly-com.revproxy.brown.edu/library/view/python-data-science/9781491912126/?ar) (Jake VanderPlas) - more recent, includes linear regression, machine learning, and one computer vision application. (Available online through Brown library)
 * [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow: Concepts, Tools,and Techniques to Build Intelligent Systems](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781838826048/) by Aurélien Géron (available online through Brown Library)
