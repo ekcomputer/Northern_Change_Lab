@@ -294,9 +294,13 @@ Git is software for code version control for individuals who want to be able to 
 * [GIS stack exchange](https://gis.stackexchange.com/) will be your best friend!
 * [The Spatial Community](https://thespatialcommunity.org/) runs a slack workspace with over 8k people on it, many of them adept programmers and web developers in various geospatial-related industries. It is very friendly and welcoming community.
 
-## Career development
-* [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), by Sundar A. Christopher, 2011
-* The Professor is In - Karen Kelsky - a bleak set of observations on the academic job market and practical advice for pursuing (or not pursuing) an academic career. The author also writes a [blog](https://theprofessorisin.com/) on the topic.
+## Books on career development
+* [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), Sundar A. Christopher (AGU Publications, 2011)
+* The Professor is In - Karen Kelsky - a bleak set of observations on the academic job market and practical advice for pursuing (or not pursuing) an academic career- *focused on social sciences*. The author also writes a [blog](https://theprofessorisin.com/) on the topic.
+* [Navigating an Academic Career: A Brief Guide for PhD Students, Postdocs, and New Faculty]([url](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119642206)) - Jeffrey J. McDonnell (AGU Publications, 2019)
+* [ThinkWell](https://ithinkwell.com.au/) (books, workshops, resources) - Maria Gardiner and Hugh Kearns have worked as an award winning team for the past fifteen years. They are well known as leading practitioners and researchers in cognitive behavioural coaching.
+
+## Networking and promting your work
 * [The Spatial Community](https://thespatialcommunity.org/) (see above)
 * [Building Your Professional GIS Portfolio](https://youtu.be/wBP-s4fP5uQ) - webinar from URISA, the organization for GIS professionals. It has lots of general advice that applies to designing websites in general.
 * [ScienceGradSchoolCoach.com](https://www.sciencegradschoolcoach.com/) - A premium service I haven't tried, but it looks helpful.
