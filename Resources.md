@@ -298,7 +298,8 @@ Git is software for code version control for individuals who want to be able to 
 * [Navigating Graduate School and Beyond: A Career Guide for Graduate Students and a Must Read For Every Advisor](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/SP064), Sundar A. Christopher (AGU Publications, 2011)
 * The Professor is In - Karen Kelsky - a bleak set of observations on the academic job market and practical advice for pursuing (or not pursuing) an academic career- *focused on social sciences*. The author also writes a [blog](https://theprofessorisin.com/) on the topic.
 * [Navigating an Academic Career: A Brief Guide for PhD Students, Postdocs, and New Faculty]([url](https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119642206)) - Jeffrey J. McDonnell (AGU Publications, 2019)
-* [ThinkWell](https://ithinkwell.com.au/) (books, workshops, resources) - Maria Gardiner and Hugh Kearns have worked as an award winning team for the past fifteen years. They are well known as leading practitioners and researchers in cognitive behavioural coaching.
+* [ThinkWell](https://ithinkwell.com.au/) (books, workshops, resources - I highly recommend!) - Maria Gardiner and Hugh Kearns have worked as an award winning team for the past fifteen years. They are well known as leading practitioners and researchers in cognitive behavioural coaching.
+  	* Book: __52 Ways to Stay Well: During your PhD, post-doc or research career__, by Hugh Kearns
 
 ## Networking and promting your work
 * [The Spatial Community](https://thespatialcommunity.org/) (see above)
