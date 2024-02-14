@@ -39,6 +39,7 @@
 * Transform to Open Science ([TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing))- an in-progress NASA iniative to train the scientific workforce on open science principles.
 
 * [Project Pythia Python Foundations Course](https://foundations.projectpythia.org/landing-page.html) - An education and training hub for the geoscientific Python community, from the education working group for [Pangeo](https://pangeo.io/). They also publish a variety of "[cookbooks](https://cookbooks.projectpythia.org/)" on topics like loading climate model data or machine learning with Landsat imagery.
+* [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
 
 ## Introductions to remote sensing from NASA ARSET
 * [Fundamentals of Remote Sensing](https://arset.gsfc.nasa.gov/webinars/fundamentals-remote-sensing): Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management and Session 2C: Fundamentals of Aquatic Remote Sensing
@@ -278,6 +279,7 @@ Git is software for code version control for individuals who want to be able to 
 
 ## R
 * A great course on [spatial statistics](https://campus.datacamp.com/courses/spatial-statistics-in-r/introduction-74ac3ff4-fe57-4ee5-a9f9-e2d34da0c652?ex=1) on DataCamp (requires subscription- sometimes free to college students)
+* [Geocomputation with R](https://r.geocompx.org/index.html)
 
 ## Best data management practices
 * This [article](https://doi.org/10.1890/0012-9623-90.2.205) (Borer et al., 2007) has aged well and outlines specific principles for working with and archiving datasets (e.g. don't put spaces in column names).
