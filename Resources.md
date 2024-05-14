@@ -303,7 +303,7 @@ Git is software for code version control for individuals who want to be able to 
 * [ThinkWell](https://ithinkwell.com.au/) (books, workshops, resources - I highly recommend!) - Maria Gardiner and Hugh Kearns have worked as an award winning team for the past fifteen years. They are well known as leading practitioners and researchers in cognitive behavioural coaching.
   	* Book: __52 Ways to Stay Well: During your PhD, post-doc or research career__, by Hugh Kearns
 
-## Networking and promting your work
+## Networking and promoting your work
 * [The Spatial Community](https://thespatialcommunity.org/) (see above)
 * [Building Your Professional GIS Portfolio](https://youtu.be/wBP-s4fP5uQ) - webinar from URISA, the organization for GIS professionals. It has lots of general advice that applies to designing websites in general.
 * [ScienceGradSchoolCoach.com](https://www.sciencegradschoolcoach.com/) - A premium service I haven't tried, but it looks helpful.
@@ -334,3 +334,4 @@ Git is software for code version control for individuals who want to be able to 
 - Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students
 - NASA L'SPACE [Program](https://www.lspace.asu.edu/) - a free, online, interactive experience open to undergraduate STEM students interested in pursuing a career with NASA or other space - includes Mission Concept Academy and Proposal Writing and Evaluation Experience Academy (with $10k funding opportunity)
 - Greenland Ice Sheet Ocean Science (GRISO) network [Summer School](https://griso.ucsd.edu/griso-summer-school-2024/)https://griso.ucsd.edu/griso-summer-school-2024/.
+- [Climatematch Academy](https://neuromatch.io/computational-tools-for-climate-science-course/) - 2-week synchronous, online July course on computational skills for climate science, targeted towards undergraduate and graduate students.
