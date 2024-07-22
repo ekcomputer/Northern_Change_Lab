@@ -259,6 +259,9 @@ Other compilations of python and GIS tools
 5. [Hydrological Drought](http://europeandroughtcentre.com/resources/hydrological-drought-1st-edition/) – 1st Edition (2004) - Tallaksen/van Lanen- from the European Drought Centre
 6. Techniques of Water-Resources Investigations [Reports](https://pubs.usgs.gov/twri/index090905.html) - a massive collection from the [USGS Publications Warehouse](https://pubs.er.usgs.gov/)
 
+## Climate
+- [MOOC on Machine Learning in Weather & Climate](https://learning.ecmwf.int/pages/index.html) from the European Centre for Medium-Range Weather Forecasts, a prestigous weather forecasting agency. 
+
 ## GDAL/OGR command line reference
 * [GDAL/OGR cheat sheat](https://github.com/dwtkns/gdal-cheat-sheet)
 * Another less-helpful [OGR cheat sheat](https://www.bostongis.com/PrinterFriendly.aspx?content_name=ogr_cheatsheet)
@@ -333,5 +336,8 @@ Git is software for code version control for individuals who want to be able to 
 - Earthscope seismology [internships](https://www.unavco.org/education/student-internships/)
 - Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students
 - NASA L'SPACE [Program](https://www.lspace.asu.edu/) - a free, online, interactive experience open to undergraduate STEM students interested in pursuing a career with NASA or other space - includes Mission Concept Academy and Proposal Writing and Evaluation Experience Academy (with $10k funding opportunity)
+
+## Summer schools (registration and payment needed)
 - Greenland Ice Sheet Ocean Science (GRISO) network [Summer School](https://griso.ucsd.edu/griso-summer-school-2024/)https://griso.ucsd.edu/griso-summer-school-2024/.
-- [Climatematch Academy](https://neuromatch.io/computational-tools-for-climate-science-course/) - 2-week synchronous, online July course on computational skills for climate science, targeted towards undergraduate and graduate students.
+- [Climatematch Academy](https://neuromatch.io/computational-tools-for-climate-science-course/) - 2-week synchronous, online July course on computational skills for climate science, targeted towards undergraduate and graduate students. Cost is pro-rated per country. Followed by an application-only 6 month volunteer [research experience](https://neuromatch.io/climatematch-impact-scholars-program/) available to those who have completed the course.
+- [Climatechange.ai summer school](https://www.climatechange.ai/events/summer_school2024) - virtual and in-person summer courses for a modest fee. 
