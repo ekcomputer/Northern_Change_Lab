@@ -319,7 +319,6 @@ Git is software for code version control for individuals who want to be able to 
 	- GSA [Geocorps](https://www.geosociety.org/GSA/GSA/fieldexp/GeoCorps/home.aspx)
 	- GSA scientists in the parks/[internships](https://www.geosociety.org/GSA/GSA/fieldexp/sip/home.aspx)
 - Summer undergraduate program for planetary research ([SUPPR](https://www.lpi.usra.edu/suppr/))
-- Alaska Juneau Icefield summer [camp](https://juneauicefield.org/what-to-expect/field-camps)
 - NASA
 	- NASA SARP
 	- NASA JPL [internships](https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/)
@@ -337,7 +336,9 @@ Git is software for code version control for individuals who want to be able to 
 - Consortium of Universities for the Advancement of Hydrologic Science (CUAHSI) [Resources](https://www.cuahsi.org/resources-for-undergraduate-students)https://www.cuahsi.org/resources-for-undergraduate-students for Undergraduate Students
 - NASA L'SPACE [Program](https://www.lspace.asu.edu/) - a free, online, interactive experience open to undergraduate STEM students interested in pursuing a career with NASA or other space - includes Mission Concept Academy and Proposal Writing and Evaluation Experience Academy (with $10k funding opportunity)
 
-## Summer schools (registration and payment needed)
+## Summer and/or field schools (registration and payment needed)
 - Greenland Ice Sheet Ocean Science (GRISO) network [Summer School](https://griso.ucsd.edu/griso-summer-school-2024/)https://griso.ucsd.edu/griso-summer-school-2024/.
 - [Climatematch Academy](https://neuromatch.io/computational-tools-for-climate-science-course/) - 2-week synchronous, online July course on computational skills for climate science, targeted towards undergraduate and graduate students. Cost is pro-rated per country. Followed by an application-only 6 month volunteer [research experience](https://neuromatch.io/climatematch-impact-scholars-program/) available to those who have completed the course.
-- [Climatechange.ai summer school](https://www.climatechange.ai/events/summer_school2024) - virtual and in-person summer courses for a modest fee. 
+- [Climatechange.ai summer school](https://www.climatechange.ai/events/summer_school2024) - virtual and in-person summer courses for a modest fee.
+- Alaska Juneau Icefield summer [camp](https://juneauicefield.org/what-to-expect/field-camps)
+- Sikumiut Field School - April 2025
